@@ -1,0 +1,10 @@
+{
+  "name": "@cljsdt/clj-kondo-linux-x64",
+  "version": "2026.8.4-cljsdt.1",
+  "description": "clj-kondo v2026.08.04, the official static Linux build, for cljsdt lint (Linux x64): no Nix needed",
+  "private": true,
+  "os": ["linux"],
+  "cpu": ["x64"],
+  "files": ["clj-kondo", "LICENSE"],
+  "license": "EPL-1.0"
+}
